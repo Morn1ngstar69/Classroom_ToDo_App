@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # classroom_todo_app
 <<<<<<< HEAD
 
@@ -19,3 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 =======
 Will update it later 
 >>>>>>> 795afbeef8447eabf579c39ab5642298dab76288
+=======
+# classroom_app
+>>>>>>> 1277392826752c77f1f2f8f7f8d6a1f9cbcead94
