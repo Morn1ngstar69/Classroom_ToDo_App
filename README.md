@@ -1,10 +1,10 @@
-<<<<<<< HEAD
 # classroom_todo_app
-<<<<<<< HEAD
+
 
 A new Flutter project.
 
-## Getting Started
+That uses, google api, drive api, classroom api, google cloud service, firestore api to fetch data by loging into google classroom through 0Auth and displaying and send push notification moreover some other features are underway.
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -18,8 +18,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 =======
-Will update it later 
->>>>>>> 795afbeef8447eabf579c39ab5642298dab76288
-=======
-# classroom_app
->>>>>>> 1277392826752c77f1f2f8f7f8d6a1f9cbcead94
+
+
+
